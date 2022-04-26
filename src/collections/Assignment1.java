@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Assignment1 {
-
+//comment
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 //1.	Write a Java program to create a new array list, add some colors (string) and print out the collection
